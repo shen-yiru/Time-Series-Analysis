@@ -5,6 +5,8 @@
 功能：特征工程、多模型比较、部署
 延续：完善数据挖掘课程项目
 
+'''
+
 time-series-analysis/
 ├── README.md
 ├── requirements.txt
@@ -22,3 +24,5 @@ time-series-analysis/
 │   └── evaluation.py
 └── results/           # 分析结果
     └── reports/       # 自动生成报告
+    
+'''
